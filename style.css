@@ -5,6 +5,9 @@ body {
   align-items: center;
   background-color: black;
 }
+h1 {
+  color: white;
+}
 .image-container {
   text-align: center;
 }
